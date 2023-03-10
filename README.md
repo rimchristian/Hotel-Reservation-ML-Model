@@ -13,7 +13,7 @@ Some of the questions that can be answered is the best time to book a hotel room
 
 # Insights
 
-The top 5 places most guests are coming from: 
+### The top 5 places most guests are coming from: 
      
 0     PRT        17572
 1     GBR         8440
