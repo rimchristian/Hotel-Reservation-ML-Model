@@ -14,7 +14,7 @@ Some of the questions that can be answered is the best time to book a hotel room
 # Insights
 
 ### The top 5 places most guests are coming from: 
-**Country** | **# of Guests**  
+**Country** | **Number of Guests**  
 --- | ---
 Portugul | 17572 
 Great Britain | 8440
@@ -31,14 +31,12 @@ Deutch | 4332
 - The two classes were not distributed balanced so the data may be imbalanced. 1 for Canceled and 0 for Not Canceled. I will try to balance the classes. 
 
 # Best Metrics
-CLF Report               precision    recall  f1-score   
+**CLF Report** | --- | **Precision** | **Recall** | **F1-Score**
+--- | --- | --- | --- | --- | ---
+CLF Report | 0 | 0.95 | 0.95 | 0.95 | 15767
+           | 1 | 0.87 | 0.87 | 0.87 | 5928
+    | Accuracy |      |      |      | 0.93
 
-           0       0.95      0.95      0.95     15767
-           1       0.87      0.87      0.87      5928
-
-    accuracy                           0.93     21695
-   macro avg       0.91      0.91      0.91     21695
-weighted avg       0.93      0.93      0.93     21695
 
 # Recommendations 
 1. Set up more marketing campaigns in Europe with the number of guests this region. 
