@@ -14,12 +14,6 @@ Some of the questions that can be answered is the best time to book a hotel room
 # Insights
 
 ### The top 5 places most guests are coming from: 
-     
-0     PRT        17572
-1     GBR         8440
-2     FRA         7091
-3     ESP         5382
-4     DEU         4332
 **Country** | **# of Guests**  
 --- | ---
 Portugul | 17572 
