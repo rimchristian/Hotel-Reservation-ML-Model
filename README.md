@@ -43,3 +43,5 @@ weighted avg       0.93      0.93      0.93     21695
 # Recommendations 
 1. Set up more marketing campaigns in Europe with the number of guests this region. 
 2. Room H is the most popular, followed by Room G and F. Room A and B are the cheapest ones. 
+![Unknown-2](https://user-images.githubusercontent.com/74616874/224291804-eecfc5cc-6215-4ae3-a425-60a55e5ed702.png)
+
