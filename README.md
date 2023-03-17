@@ -8,7 +8,7 @@ Reservations can get called off due to cancellations or no-shows.  Depending on 
 Some of the questions that can be answered is the best time to book a hotel room? The optimal length of stay in order to get the best daily rate?
 
 ### **Content**
-- This data contains booking information for a city hotel and a resort hotel.  Other features include the dates, length, parking, daily rates, and etf. 
+- This data contains booking information for a city hotel and a resort hotel.  Other features include the dates, length, parking, daily rates, and etc. 
 
 
 # Insights
