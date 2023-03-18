@@ -1,7 +1,7 @@
 # Hotel-Reservation-ML-Model
 ## Source: https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand
 
-###**Can you predict if the customer is going to honor the reservation or cancel it?**
+### Can you predict if the customer is going to honor the reservation or cancel it?
 
 ### Business Problem: The online hotel reservation channels have dramatically changed booking possibilities and customers' behavior.  
 - Reservations can get called off due to cancellations or no-shows.  Depending on the resuls, hotel managers should consider readjusting the feels that affect the reservation. 
