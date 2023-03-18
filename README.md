@@ -8,6 +8,11 @@
 - It would be convenient for hotels to have a model to predict if a guest will actually come. This can help hotels plan logistics, such as personal and food requirements. 
 - Models that offer more rooms. 
 
+### Feature Importance
+- Which features are most important to predict cancelations?
+
+
+
 ### **Content**
 - This data contains booking information for a city hotel and a resort hotel.  Other features include the dates, length, parking, daily rates, and etc. 
 
