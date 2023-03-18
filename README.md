@@ -3,9 +3,10 @@
 
 ###**Can you predict if the customer is going to honor the reservation or cancel it?**
 
-### **Business Problem: The online hotel reservation channels have dramatically changed booking possibilities and customers' behavior.  
-Reservations can get called off due to cancellations or no-shows.  Depending on the resuls, hotel managers should consider readjusting the feels that affect the reservation. 
-Some of the questions that can be answered is the best time to book a hotel room? The optimal length of stay in order to get the best daily rate?
+### Business Problem: The online hotel reservation channels have dramatically changed booking possibilities and customers' behavior.  
+- Reservations can get called off due to cancellations or no-shows.  Depending on the resuls, hotel managers should consider readjusting the feels that affect the reservation. 
+- It would be convenient for hotels to have a model to predict if a guest will actually come. This can help hotels plan logistics, such as personal and food requirements. 
+- Models that offer more rooms. 
 
 ### **Content**
 - This data contains booking information for a city hotel and a resort hotel.  Other features include the dates, length, parking, daily rates, and etc. 
