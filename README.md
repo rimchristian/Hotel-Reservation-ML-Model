@@ -51,3 +51,17 @@ weighted avg       0.93      0.93      0.93     21695
 2. Room H is the most popular, followed by Room G and F. Room A and B are the cheapest ones. 
 ![Unknown-2](https://user-images.githubusercontent.com/74616874/224291804-eecfc5cc-6215-4ae3-a425-60a55e5ed702.png)
 
+
+# Code Reference 
+## Functions 
+
+### Evulate Classification
+## Define a function that takes in arguments and prints out a classification report and confusion matrix
+<img width="627" alt="Screen Shot 2023-09-28 at 11 35 03 AM" src="https://github.com/rimchristian/Hotel-Reservation-ML-Model/assets/74616874/489c696d-12cc-4048-af7b-f6805787db9a">
+This function takes in a model, features, and labels as arguments and prints a classification report and confusion matrix.  Has a number of operational arguments, including:
+- cmap: The colormap to use for the confusion matrix.
+- normalize: The confusion matrix normalization to use, or None to not normalize the confusion matrix.
+- classes: An ordered list of class labels. If not specified, the class labels will be inferred from the data.
+- figsize: The size of the figure to use for the confusion matrix.
+ This function is a useful tool for evaluating the performance of classification models. It can be used to compare different models, or to evaluate the performance of a model on a new dataset. This specific one is used for measuring logistic regressions. 
+
