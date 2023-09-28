@@ -58,7 +58,8 @@ weighted avg       0.93      0.93      0.93     21695
 ### Evulate Classification
 ## Define a function that takes in arguments and prints out a classification report and confusion matrix
 <img width="627" alt="Screen Shot 2023-09-28 at 11 35 03 AM" src="https://github.com/rimchristian/Hotel-Reservation-ML-Model/assets/74616874/489c696d-12cc-4048-af7b-f6805787db9a">
-This function takes in a model, features, and labels as arguments and prints a classification report and confusion matrix.  Has a number of operational arguments, including:
+
+### This function takes in a model, features, and labels as arguments and prints a classification report and confusion matrix.  Has a number of operational arguments, including:
 - cmap: The colormap to use for the confusion matrix.
 - normalize: The confusion matrix normalization to use, or None to not normalize the confusion matrix.
 - classes: An ordered list of class labels. If not specified, the class labels will be inferred from the data.
