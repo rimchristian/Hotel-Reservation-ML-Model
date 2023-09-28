@@ -20,14 +20,9 @@
 
 # Insights and Visualizations 
 
-### The top 5 places most guests are coming from: 
-**Country** | **Number of Guests**  
---- | ---
-Portugul | 17572 
-Great Britain | 8440
-France | 7091
-Spain | 5382
-Deutch | 4332
+###  Which country has the highest booking?
+![Unknown](https://github.com/rimchristian/Hotel-Reservation-ML-Model/assets/74616874/f0e56b89-bb70-4afb-80a7-a8b88e2a127c)
+
 
 
 ![newplot](https://user-images.githubusercontent.com/74616874/224289458-96b52faf-6b89-4949-9d51-82160346fdda.png)
@@ -41,6 +36,8 @@ Deutch | 4332
 
 #### Which month and year does Cancellation affect most?
 ![Unknown](https://github.com/rimchristian/Hotel-Reservation-ML-Model/assets/74616874/38d76cf6-332b-418b-94bd-bfc69c187fd1)
+
+- 2016 has the most cancelled year of Booking in City Hotel
 
 #### Which month and year had the most bookings?
 ![Unknown](https://github.com/rimchristian/Hotel-Reservation-ML-Model/assets/74616874/c0136565-9598-45b4-a045-c0a8e9533d29)
