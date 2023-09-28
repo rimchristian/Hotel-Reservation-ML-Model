@@ -62,9 +62,10 @@
 
 
 # Recommendations 
-1. Set up more marketing campaigns in Europe with the number of guests this region. 
-2. Room H is the most popular, followed by Room G and F. Room A and B are the cheapest ones. 
-![Unknown-2](https://user-images.githubusercontent.com/74616874/224291804-eecfc5cc-6215-4ae3-a425-60a55e5ed702.png)
+- Target marketing campaigns to customers who are at a higher risk of canceling their reservation. For example, you could offer discounts or loyalty rewards to these customers.
+- Implement policies that make it more difficult for customers to cancel their reservation without penalty. For example, you could require a deposit or charge a cancellation fee.
+- Improve the customer experience to reduce the likelihood of customers wanting to cancel their reservation. For example, you could offer more amenities, provide better service, or make it easier for customers to change their reservation.
+
 
 
 
