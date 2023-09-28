@@ -18,7 +18,7 @@
 - This data contains booking information for a city hotel and a resort hotel.  Other features include the dates, length, parking, daily rates, and etc. 
 
 
-# Insights
+# Insights and Visualizations 
 
 ### The top 5 places most guests are coming from: 
 **Country** | **Number of Guests**  
@@ -36,9 +36,19 @@ Deutch | 4332
 ### Cancellation Status 
 #### How many booking was canceled?
 ![booking canc](https://github.com/rimchristian/Hotel-Reservation-ML-Model/assets/74616874/3df03fb8-e7f6-4af8-ad7c-e933fd0d1dc8)
+It shows that City Hotel had  24,025 bookings that was cancelled compared to Resort Hotel of 28,000 bookings that was cancelled. 
+
+#### Which month and year does Cancellation affect most?
+![Unknown](https://github.com/rimchristian/Hotel-Reservation-ML-Model/assets/74616874/38d76cf6-332b-418b-94bd-bfc69c187fd1)
+
+#### Which month and year had the most bookings?
+![Unknown](https://github.com/rimchristian/Hotel-Reservation-ML-Model/assets/74616874/c0136565-9598-45b4-a045-c0a8e9533d29)
+
+####  What are the most important columns for our prediction?
+![Unknown](https://github.com/rimchristian/Hotel-Reservation-ML-Model/assets/74616874/15f65fa6-a13b-475f-9849-95b64f910f41)
 
 
-- The two classes were not distributed balanced so the data may be imbalanced. 1 for Canceled and 0 for Not Canceled. I will try to balance the classes. 
+
 
 # Best Metrics
 CLF Report               precision    recall  f1-score   
@@ -50,10 +60,16 @@ CLF Report               precision    recall  f1-score
    macro avg       0.91      0.91      0.91     21695
 weighted avg       0.93      0.93      0.93     21695
 
+
+![Unknown](https://github.com/rimchristian/Hotel-Reservation-ML-Model/assets/74616874/f8fbd639-dc80-46a6-9652-d2fc03c8b194)
+
+
+
 # Recommendations 
 1. Set up more marketing campaigns in Europe with the number of guests this region. 
 2. Room H is the most popular, followed by Room G and F. Room A and B are the cheapest ones. 
 ![Unknown-2](https://user-images.githubusercontent.com/74616874/224291804-eecfc5cc-6215-4ae3-a425-60a55e5ed702.png)
+
 
 
 # Code Reference 
