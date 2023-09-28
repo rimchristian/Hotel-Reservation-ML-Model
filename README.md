@@ -59,7 +59,9 @@ Deutch | 4332
 ![Unknown](https://github.com/rimchristian/Hotel-Reservation-ML-Model/assets/74616874/f8fbd639-dc80-46a6-9652-d2fc03c8b194)
 
 ## Decision Tree Classifier 
-![Uploading Screen Shot 2023-09-28 at 5.40.24 PM.png…]()
+
+<img width="441" alt="Screen Shot 2023-09-28 at 5 41 19 PM" src="https://github.com/rimchristian/Hotel-Reservation-ML-Model/assets/74616874/aee477f1-efe6-4dc1-8d1a-82e9a114a7b9">
+
 
 
 # Recommendations 
