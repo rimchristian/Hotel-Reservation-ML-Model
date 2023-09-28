@@ -1,4 +1,4 @@
-# Hotel-Reservation-ML-Model
+![image](https://github.com/rimchristian/Hotel-Reservation-ML-Model/assets/74616874/9b2d89fa-3a22-4688-ada8-1e35d9d7a1f3)# Hotel-Reservation-ML-Model
 ## Source: https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand
 
 ### Can you predict if the customer is going to honor the reservation or cancel it?
@@ -6,7 +6,8 @@
 ### Business Problem: The online hotel reservation channels have dramatically changed booking possibilities and customers' behavior.  
 - Reservations can get called off due to cancellations or no-shows.  Depending on the resuls, hotel managers should consider readjusting the feels that affect the reservation. 
 - It would be convenient for hotels to have a model to predict if a guest will actually come. This can help hotels plan logistics, such as personal and food requirements. 
-- Models that offer more rooms. 
+- Models that offer more rooms.
+- I built a Decision Tree Classifier and KNN Machine Learning Model on making predictions of how booking was cancelled in an hotel. 
 
 ### Feature Importance
 - Which features are most important to predict cancelations?
@@ -33,7 +34,10 @@ Deutch | 4332
 - Most of these guests are coming from Europe, mostly from Portugul.  
 
 ### Cancellation Status 
-![Unknown](https://user-images.githubusercontent.com/74616874/224290741-ace62c93-9947-445f-b948-02cc9c66b4a1.png)
+#### How many booking was canceled?
+![booking canc](https://github.com/rimchristian/Hotel-Reservation-ML-Model/assets/74616874/3df03fb8-e7f6-4af8-ad7c-e933fd0d1dc8)
+
+
 - The two classes were not distributed balanced so the data may be imbalanced. 1 for Canceled and 0 for Not Canceled. I will try to balance the classes. 
 
 # Best Metrics
