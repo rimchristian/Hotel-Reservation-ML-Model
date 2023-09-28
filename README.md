@@ -36,7 +36,8 @@ Deutch | 4332
 ### Cancellation Status 
 #### How many booking was canceled?
 ![booking canc](https://github.com/rimchristian/Hotel-Reservation-ML-Model/assets/74616874/3df03fb8-e7f6-4af8-ad7c-e933fd0d1dc8)
-It shows that City Hotel had  24,025 bookings that was cancelled compared to Resort Hotel of 28,000 bookings that was cancelled. 
+
+- It shows that City Hotel had  24,025 bookings that was cancelled compared to Resort Hotel of 28,000 bookings that was cancelled. 
 
 #### Which month and year does Cancellation affect most?
 ![Unknown](https://github.com/rimchristian/Hotel-Reservation-ML-Model/assets/74616874/38d76cf6-332b-418b-94bd-bfc69c187fd1)
@@ -51,15 +52,9 @@ It shows that City Hotel had  24,025 bookings that was cancelled compared to Res
 
 
 # Best Metrics
-CLF Report               precision    recall  f1-score   
 
-           0       0.95      0.95      0.95     15767
-           1       0.87      0.87      0.87      5928
-
-    accuracy                           0.93     21695
-   macro avg       0.91      0.91      0.91     21695
-weighted avg       0.93      0.93      0.93     21695
-
+## KNN Test Report
+<img width="457" alt="Screen Shot 2023-09-28 at 5 38 20 PM" src="https://github.com/rimchristian/Hotel-Reservation-ML-Model/assets/74616874/95b3c5bd-3aca-4bbf-9fb2-2173fccf5115">
 
 ![Unknown](https://github.com/rimchristian/Hotel-Reservation-ML-Model/assets/74616874/f8fbd639-dc80-46a6-9652-d2fc03c8b194)
 
