@@ -1,4 +1,4 @@
-![image](https://github.com/rimchristian/Hotel-Reservation-ML-Model/assets/74616874/9b2d89fa-3a22-4688-ada8-1e35d9d7a1f3)# Hotel-Reservation-ML-Model
+# Hotel-Reservation-ML-Model
 ## Source: https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand
 
 ### Can you predict if the customer is going to honor the reservation or cancel it?
